@@ -1,0 +1,59 @@
+                                                       DIFFERENCE BETWEEN HTTP 1.1&HTTP 2
+
+
+1)HTTP1.1;
+
+=> HTTP1.1[Hyper Text Transfer Porotocol]was invented in 1997(world wide web)
+
+=>FEAUTURES of http1.1
+
+   *Cache control,content negotiation,that allowed for different language,content encodings
+and types
+
+   *A client and server can come to an agremeent as to which reperesentation is most suitable
+   
+   *New http methods were added
+   
+   *Yet another enrichment came from the ability to support server co-location
+
+   *The protocol was able to support servers hosted on different domains but located at the same IP address
+
+2)HTTP2;
+
+=>Published in 2014-2015
+
+=>Reperesents a major revision of th protocol developed by the http working group of the intrenet engenering task force
+(IETF)
+
+=>FEAUTURES of HTTP2
+
+   *The effort to standarice the protocol was supported popular intrenet browser
+
+   *Including google crome,microsoft edge,internet exploror,mozilla firefox,oprea,apple safari and amazon silk
+
+   *And web server software including Apache and Nginx
+
+CONCLUSION;
+
+    =>HTTP/2 differs from its predecessor in several ways but most obviously, it is a binary protocol that cannot be written or read manually. 
+    It introduces HTTP header field Compression and supports multiple concurrent data exchanges on a single HTTP Connection. 
+    New functionality is available for resetting a message, which allows the client to stop mid-action and start anew, 
+    without having to drop and reset the HTTP Connection. Flow control and prioritization allow for multiplexed data streams, 
+    and it supports the unsolicited push of HTTP responses from the server to the client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
