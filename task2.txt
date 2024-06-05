@@ -1,0 +1,22 @@
+                                                    OBJECTS AND ITS REPRESENTATION
+
+
+INTRODUCTION:
+           => Object is a a super helper that can carry a bunch of different things for you. It can hold information like names, numbers, or even more objects.
+            Think of it as a toolbox for your code. Objects are variables. Objects can contain many values. Object values are written as name : value pairs (name and value separated by a colon).
+             Objects are similar to the dictionaries in python,Hash tables in C,Hash maps in Java.
+
+Inside the Object:
+                =>When we create an object, we fill it with treasures called properties. Each property has a name (like a      label) and a value (like the treasure inside). 
+                These properties are like the traits of your object — they definewhat it is.
+ 
+EX;
+   var hero ={
+       name "Vijay"
+       age "49"
+     assets "crores"
+    }
+
+Internal Representation:
+                 Now, let’s talk about the magic behind the scenes. Every object has some hidden stuff — we call them internal properties.
+                 They’re like the engine inside a car, making sure everything runs smoothly.
